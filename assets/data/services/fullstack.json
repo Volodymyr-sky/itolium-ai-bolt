@@ -1,0 +1,69 @@
+{
+  "id": "fullstack",
+  "icon": "code-slash",
+  "title": "Fullstack-Entwicklung",
+  "metaTitle": "Fullstack-Entwicklung | Professionelle Webentwicklung",
+  "metaDescription": "Ganzheitliche Fullstack-Entwicklung mit modernsten Technologien. Expertise in Frontend, Backend und Datenbankentwicklung für Ihr Unternehmen.",
+  "shortDescription": "Ganzheitliche Entwicklung von Web-Anwendungen mit modernsten Technologien.",
+  "fullDescription": "Unsere Fullstack-Entwicklung bietet Ihnen eine komplette Lösung für Ihre Webanwendungen. Von der Benutzeroberfläche bis zur Datenbankarchitektur entwickeln wir skalierbare und wartbare Anwendungen.",
+  "image": "https://source.unsplash.com/random/800x600?coding",
+  "features": [
+    "Frontend- und Backend-Entwicklung aus einer Hand",
+    "Moderne Frameworks und Technologien",
+    "Responsive Design und mobile Optimierung",
+    "API-Entwicklung und Integration",
+    "Datenbank-Design und -Optimierung"
+  ],
+  "benefits": [
+    {
+      "icon": "gear",
+      "title": "Effiziente Entwicklung",
+      "description": "Schnelle und kostengünstige Entwicklung durch integrierte Prozesse"
+    },
+    {
+      "icon": "arrows-fullscreen",
+      "title": "Skalierbare Lösungen",
+      "description": "Zukunftssichere Architekturen für wachsende Anforderungen"
+    },
+    {
+      "icon": "tools",
+      "title": "Wartbarkeit",
+      "description": "Gut strukturierter Code für einfache Wartung und Erweiterung"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Anforderungsanalyse",
+      "description": "Detaillierte Erfassung Ihrer Anforderungen und Ziele"
+    },
+    {
+      "step": 2,
+      "title": "Konzeption",
+      "description": "Entwicklung einer technischen Architektur und UI/UX-Design"
+    },
+    {
+      "step": 3,
+      "title": "Entwicklung",
+      "description": "Agile Entwicklung mit regelmäßigen Feedback-Schleifen"
+    },
+    {
+      "step": 4,
+      "title": "Testing",
+      "description": "Umfassende Tests und Qualitätssicherung"
+    },
+    {
+      "step": 5,
+      "title": "Deployment",
+      "description": "Professionelle Inbetriebnahme und Monitoring"
+    }
+  ],
+  "keywords": [
+    "fullstack entwickler",
+    "full stack developer",
+    "fullstack",
+    "full stack",
+    "fullstack entwicklung",
+    "full stack entwicklung"
+  ]
+}

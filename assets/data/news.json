@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "neueste-trends-angular",
+      "title": "Neueste Trends und Technologien in Angular-Entwicklung",
+      "date": "2024-03-15",
+      "author": "Thomas Schmidt",
+      "image": "https://source.unsplash.com/random/800x600?programming",
+      "summary": "Entdecken Sie die neuesten Entwicklungen im Angular-Framework und wie sie die Webentwicklung revolutionieren.",
+      "content": "<p>Angular entwickelt sich ständig weiter und bringt neue Features...</p>",
+      "tags": ["Angular", "Frontend", "Webentwicklung"]
+    }
+  ]
+}

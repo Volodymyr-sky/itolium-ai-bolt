@@ -1,0 +1,54 @@
+{
+  "positions": [
+    {
+      "id": "angular",
+      "title": "Angular Entwickler (m/w/d)",
+      "location": "Berlin",
+      "type": "Vollzeit",
+      "description": "Wir suchen einen erfahrenen Angular-Entwickler für spannende Projekte.",
+      "requirements": [
+        "3+ Jahre Erfahrung mit Angular",
+        "TypeScript-Kenntnisse",
+        "Agile Entwicklungsmethoden",
+        "Teamplayer-Mentalität",
+        "Sehr gute Deutsch- und Englischkenntnisse"
+      ],
+      "benefits": [
+        "Flexible Arbeitszeiten",
+        "Remote-Arbeit möglich",
+        "Weiterbildungsbudget",
+        "Moderne Technologie-Stack",
+        "Team-Events"
+      ],
+      "contact": {
+        "email": "karriere@acmeit.de",
+        "phone": "+49 30 123456789"
+      }
+    },
+    {
+      "id": "fullstack",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "location": "München",
+      "type": "Vollzeit/Remote",
+      "description": "Als Fullstack Entwickler gestalten Sie moderne Webanwendungen von der Konzeption bis zur Implementierung.",
+      "requirements": [
+        "5+ Jahre Erfahrung in der Webentwicklung",
+        "Expertise in React/Vue.js und Node.js",
+        "Erfahrung mit Cloud-Technologien",
+        "Agile Entwicklungsmethoden",
+        "Sehr gute Deutsch- und Englischkenntnisse"
+      ],
+      "benefits": [
+        "Flexible Arbeitszeiten",
+        "Remote-Arbeit möglich",
+        "Weiterbildungsbudget",
+        "Moderne Technologie-Stack",
+        "Team-Events"
+      ],
+      "contact": {
+        "email": "karriere@acmeit.de",
+        "phone": "+49 30 123456789"
+      }
+    }
+  ]
+}

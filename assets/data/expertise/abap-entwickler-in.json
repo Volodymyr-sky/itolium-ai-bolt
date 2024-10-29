@@ -1,0 +1,44 @@
+{
+  "id": "abap-entwickler-in",
+  "title": "ABAP-Entwicklung",
+  "metaTitle": "ABAP-Entwicklung | SAP Expertise",
+  "metaDescription": "Professionelle ABAP-Entwicklung für SAP-Systeme. Optimieren Sie Ihre SAP-Prozesse mit unserer Expertise.",
+  "description": "Unsere ABAP-Entwickler bieten maßgeschneiderte Lösungen für Ihre SAP-Systeme.",
+  "content": "<p>Mit jahrelanger Erfahrung in der ABAP-Entwicklung unterstützen wir Unternehmen bei der Optimierung ihrer SAP-Prozesse. Unsere Experten entwickeln effiziente und wartbare Lösungen, die perfekt auf Ihre Anforderungen zugeschnitten sind.</p>",
+  "image": "https://source.unsplash.com/random/800x600?coding",
+  "projects": [
+    {
+      "title": "SAP S/4HANA Migration",
+      "description": "Erfolgreiche Migration eines Großunternehmens zu SAP S/4HANA",
+      "results": [
+        "30% Performancesteigerung",
+        "Optimierte Geschäftsprozesse",
+        "Reduzierte Wartungskosten"
+      ]
+    }
+  ],
+  "advantages": [
+    {
+      "icon": "code-slash",
+      "title": "Clean Code",
+      "description": "Wartbarer und effizienter Code"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Qualitätssicherung",
+      "description": "Umfassende Tests und Code-Reviews"
+    },
+    {
+      "icon": "graph-up",
+      "title": "Performance",
+      "description": "Optimierte Leistung durch Best Practices"
+    }
+  ],
+  "keywords": [
+    "sap partner finder",
+    "sap commerce hybris",
+    "sap e commerce",
+    "sap e-commerce",
+    "sap commerce"
+  ]
+}

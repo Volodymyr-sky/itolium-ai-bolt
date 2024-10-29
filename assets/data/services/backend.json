@@ -1,0 +1,69 @@
+{
+  "id": "backend",
+  "icon": "server",
+  "title": "Backend-Entwicklung",
+  "metaTitle": "Backend-Entwicklung | Robuste Serverlösungen",
+  "metaDescription": "Professionelle Backend-Entwicklung für skalierbare und sichere Serveranwendungen. Expertise in Microservices, APIs und Datenbanken.",
+  "shortDescription": "Robuste und skalierbare Serverlösungen für Ihre Geschäftsanforderungen.",
+  "fullDescription": "Unsere Backend-Entwicklung fokussiert sich auf die Erstellung leistungsfähiger Serveranwendungen. Wir entwickeln skalierbare Architekturen und effiziente APIs für Ihre geschäftskritischen Anwendungen.",
+  "image": "https://source.unsplash.com/random/800x600?server",
+  "features": [
+    "Microservices-Architekturen",
+    "RESTful und GraphQL APIs",
+    "Datenbank-Optimierung",
+    "Sicherheitsimplementierung",
+    "Performance-Monitoring"
+  ],
+  "benefits": [
+    {
+      "icon": "shield-check",
+      "title": "Hohe Sicherheit",
+      "description": "Implementierung modernster Sicherheitsstandards"
+    },
+    {
+      "icon": "lightning",
+      "title": "Optimale Performance",
+      "description": "Schnelle Verarbeitung auch bei hoher Last"
+    },
+    {
+      "icon": "diagram-3",
+      "title": "Skalierbarkeit",
+      "description": "Flexible Anpassung an wachsende Anforderungen"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Analyse",
+      "description": "Erfassung der technischen Anforderungen"
+    },
+    {
+      "step": 2,
+      "title": "Architektur",
+      "description": "Design der Backend-Architektur"
+    },
+    {
+      "step": 3,
+      "title": "Entwicklung",
+      "description": "Implementierung der Serverlösungen"
+    },
+    {
+      "step": 4,
+      "title": "Testing",
+      "description": "Umfangreiche Tests und Optimierung"
+    },
+    {
+      "step": 5,
+      "title": "Deployment",
+      "description": "Sichere Inbetriebnahme und Monitoring"
+    }
+  ],
+  "keywords": [
+    "backend developer",
+    "backend entwickler",
+    "backend development",
+    "backend web development",
+    "it backend",
+    "backend engineering"
+  ]
+}

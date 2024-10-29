@@ -1,0 +1,67 @@
+{
+  "id": "datenmigrationen",
+  "icon": "arrow-left-right",
+  "title": "Datenmigrationen",
+  "metaTitle": "Professionelle Datenmigration | Sichere Datentransformation",
+  "metaDescription": "Sichere und effiziente Datenmigration für Ihr Unternehmen. Expertise in der Migration von Legacy-Systemen und komplexen Datenstrukturen.",
+  "shortDescription": "Sichere und effiziente Migration Ihrer Geschäftsdaten.",
+  "fullDescription": "Wir bieten professionelle Datenmigrationsdienste, die einen sicheren und effizienten Transfer Ihrer wertvollen Unternehmensdaten gewährleisten. Unsere Experten sorgen für eine reibungslose Migration ohne Datenverlust.",
+  "image": "https://source.unsplash.com/random/800x600?data",
+  "features": [
+    "Legacy-System-Migration",
+    "Datenbereinigung und -validierung",
+    "Automatisierte Migrationsprozesse",
+    "Datenkonsistenzprüfung",
+    "Rollback-Strategien"
+  ],
+  "benefits": [
+    {
+      "icon": "shield-lock",
+      "title": "Datensicherheit",
+      "description": "Garantierte Sicherheit sensibler Daten"
+    },
+    {
+      "icon": "clock-history",
+      "title": "Minimale Ausfallzeit",
+      "description": "Effiziente Migration mit geringer Downtime"
+    },
+    {
+      "icon": "check-circle",
+      "title": "Datenintegrität",
+      "description": "Gewährleistung der Datenqualität"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Analyse",
+      "description": "Analyse der Datenstrukturen"
+    },
+    {
+      "step": 2,
+      "title": "Planung",
+      "description": "Entwicklung der Migrationsstrategie"
+    },
+    {
+      "step": 3,
+      "title": "Test",
+      "description": "Testmigration und Validierung"
+    },
+    {
+      "step": 4,
+      "title": "Migration",
+      "description": "Durchführung der Live-Migration"
+    },
+    {
+      "step": 5,
+      "title": "Verifizierung",
+      "description": "Überprüfung und Qualitätssicherung"
+    }
+  ],
+  "keywords": [
+    "datenmigration",
+    "datenmigration vorgehen",
+    "datenmigration sap",
+    "daten migration"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cloud",
+  "icon": "cloud",
+  "title": "Cloud-Lösungen",
+  "metaTitle": "Cloud-Lösungen & Architektur | Professionelle Cloud-Services",
+  "metaDescription": "Maßgeschneiderte Cloud-Lösungen für Ihr Unternehmen. Expertise in AWS, Google Cloud und Azure. Sichere und skalierbare Cloud-Architekturen.",
+  "shortDescription": "Flexible und sichere Cloud-Architekturen für maximale Skalierbarkeit.",
+  "fullDescription": "Wir entwickeln und implementieren maßgeschneiderte Cloud-Lösungen, die Ihrem Unternehmen maximale Flexibilität und Skalierbarkeit bieten. Unsere Expertise umfasst alle führenden Cloud-Plattformen.",
+  "image": "https://source.unsplash.com/random/800x600?cloud",
+  "features": [
+    "Multi-Cloud-Strategien",
+    "Cloud-Native Entwicklung",
+    "Containerisierung und Orchestrierung",
+    "Automatisierte Skalierung",
+    "Disaster Recovery"
+  ],
+  "benefits": [
+    {
+      "icon": "graph-up",
+      "title": "Kosteneffizienz",
+      "description": "Optimierte Ressourcennutzung und Kostenstruktur"
+    },
+    {
+      "icon": "shield",
+      "title": "Sicherheit",
+      "description": "Umfassender Schutz Ihrer Cloud-Infrastruktur"
+    },
+    {
+      "icon": "arrows-angle-expand",
+      "title": "Flexibilität",
+      "description": "Schnelle Anpassung an neue Anforderungen"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategie",
+      "description": "Entwicklung der Cloud-Strategie"
+    },
+    {
+      "step": 2,
+      "title": "Design",
+      "description": "Architektur-Design und Planung"
+    },
+    {
+      "step": 3,
+      "title": "Migration",
+      "description": "Schrittweise Migration in die Cloud"
+    },
+    {
+      "step": 4,
+      "title": "Optimierung",
+      "description": "Performance- und Kostenoptimierung"
+    },
+    {
+      "step": 5,
+      "title": "Betrieb",
+      "description": "Kontinuierliches Monitoring und Management"
+    }
+  ],
+  "keywords": [
+    "cloud architect",
+    "cloud architecture",
+    "cloud solution architect",
+    "cloud architektur",
+    "cloud architekt",
+    "cloud computing"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "e-commerce",
+  "icon": "cart",
+  "title": "E-Commerce",
+  "metaTitle": "E-Commerce Lösungen | Professionelle Online-Shop-Entwicklung",
+  "metaDescription": "Maßgeschneiderte E-Commerce-Lösungen für Ihren Online-Handel. Expertise in Shopware, Magento und individuellen Shop-Systemen.",
+  "shortDescription": "Professionelle Online-Shop-Lösungen für Ihren digitalen Vertrieb.",
+  "fullDescription": "Wir entwickeln leistungsstarke E-Commerce-Plattformen, die Ihren Verkaufserfolg maximieren. Von der Konzeption bis zur Implementierung begleiten wir Sie bei der Digitalisierung Ihres Handels.",
+  "image": "https://source.unsplash.com/random/800x600?ecommerce",
+  "features": [
+    "Individuelle Shop-Systeme",
+    "Payment-Integration",
+    "Warenwirtschaftsanbindung",
+    "Mobile Shopping",
+    "Marketing-Tools"
+  ],
+  "benefits": [
+    {
+      "icon": "cart-check",
+      "title": "Conversion-Optimierung",
+      "description": "Maximierung Ihrer Verkaufserfolge"
+    },
+    {
+      "icon": "phone",
+      "title": "Mobile First",
+      "description": "Optimale Darstellung auf allen Geräten"
+    },
+    {
+      "icon": "gear",
+      "title": "Integration",
+      "description": "Nahtlose Anbindung an Ihre Systeme"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Konzeption",
+      "description": "Entwicklung der Shop-Strategie"
+    },
+    {
+      "step": 2,
+      "title": "Design",
+      "description": "Erstellung des Shop-Designs"
+    },
+    {
+      "step": 3,
+      "title": "Entwicklung",
+      "description": "Implementierung des Shop-Systems"
+    },
+    {
+      "step": 4,
+      "title": "Integration",
+      "description": "Anbindung externer Systeme"
+    },
+    {
+      "step": 5,
+      "title": "Launch",
+      "description": "Go-Live und Optimierung"
+    }
+  ],
+  "keywords": [
+    "e-commerce agentur",
+    "e commerce agentur",
+    "expert e commerce",
+    "agentur e commerce",
+    "agentur für onlineshops"
+  ]
+}

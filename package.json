@@ -1,0 +1,31 @@
+{
+  "name": "acme-it",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "HOST=0.0.0.0 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.8",
+    "bootstrap": "^4.6.2",
+    "bootstrap-vue": "^2.23.1",
+    "sass": "^1.71.1",
+    "sass-loader": "^10.1.1",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@nuxtjs/robots": "^2.5.0",
+    "core-js": "^3.25.3",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}

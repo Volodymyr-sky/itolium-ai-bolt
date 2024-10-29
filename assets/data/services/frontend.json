@@ -1,0 +1,69 @@
+{
+  "id": "frontend",
+  "icon": "window",
+  "title": "Frontend-Entwicklung",
+  "metaTitle": "Frontend-Entwicklung | Moderne Weboberflächen",
+  "metaDescription": "Professionelle Frontend-Entwicklung für moderne und benutzerfreundliche Weboberflächen. Expertise in React, Vue.js und modernen Web-Technologien.",
+  "shortDescription": "Benutzerfreundliche und moderne Weboberflächen.",
+  "fullDescription": "Wir entwickeln intuitive und ansprechende Benutzeroberflächen, die Ihre Nutzer begeistern. Mit modernsten Frontend-Technologien schaffen wir optimale User Experiences.",
+  "image": "https://source.unsplash.com/random/800x600?interface",
+  "features": [
+    "Responsive Webdesign",
+    "Single Page Applications",
+    "Progressive Web Apps",
+    "UI/UX-Optimierung",
+    "Performance-Optimierung"
+  ],
+  "benefits": [
+    {
+      "icon": "speedometer",
+      "title": "Schnelle Performance",
+      "description": "Optimierte Ladezeiten und Reaktivität"
+    },
+    {
+      "icon": "phone",
+      "title": "Responsive Design",
+      "description": "Perfekte Darstellung auf allen Geräten"
+    },
+    {
+      "icon": "heart",
+      "title": "Beste UX",
+      "description": "Intuitive und ansprechende Bedienung"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "UX-Design",
+      "description": "Entwicklung der Nutzerführung"
+    },
+    {
+      "step": 2,
+      "title": "UI-Design",
+      "description": "Gestaltung der Oberflächen"
+    },
+    {
+      "step": 3,
+      "title": "Entwicklung",
+      "description": "Implementierung der Frontend-Logik"
+    },
+    {
+      "step": 4,
+      "title": "Optimierung",
+      "description": "Performance-Tuning"
+    },
+    {
+      "step": 5,
+      "title": "Testing",
+      "description": "Cross-Browser und Geräte-Tests"
+    }
+  ],
+  "keywords": [
+    "frontend",
+    "front end developer",
+    "frontend entwickler",
+    "front-end",
+    "frontend programmierung",
+    "web frontend development"
+  ]
+}

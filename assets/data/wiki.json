@@ -1,0 +1,17 @@
+{
+  "terms": [
+    {
+      "id": "angular",
+      "title": "Angular",
+      "definition": "Ein TypeScript-basiertes Frontend-Framework für die Entwicklung von Webanwendungen.",
+      "details": "<p>Angular ist ein umfassendes Framework für die Entwicklung moderner Webanwendungen...</p>",
+      "relatedTerms": ["TypeScript", "Frontend", "JavaScript"],
+      "examples": [
+        {
+          "title": "Komponenten-Beispiel",
+          "code": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  template: '<h1>Hello World</h1>'\n})\nexport class AppComponent {}"
+        }
+      ]
+    }
+  ]
+}

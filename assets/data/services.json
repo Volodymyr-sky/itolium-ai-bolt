@@ -1,0 +1,413 @@
+{
+  "fullstack": {
+    "id": "fullstack",
+    "icon": "code-slash",
+    "title": "Fullstack-Entwicklung",
+    "metaTitle": "Fullstack-Entwicklung | Professionelle Webentwicklung",
+    "metaDescription": "Ganzheitliche Fullstack-Entwicklung mit modernsten Technologien. Expertise in Frontend, Backend und Datenbankentwicklung für Ihr Unternehmen.",
+    "shortDescription": "Ganzheitliche Entwicklung von Web-Anwendungen mit modernsten Technologien.",
+    "fullDescription": "Unsere Fullstack-Entwicklung bietet Ihnen eine komplette Lösung für Ihre Webanwendungen. Von der Benutzeroberfläche bis zur Datenbankarchitektur entwickeln wir skalierbare und wartbare Anwendungen.",
+    "image": "https://source.unsplash.com/random/800x600?coding",
+    "features": [
+      "Frontend- und Backend-Entwicklung aus einer Hand",
+      "Moderne Frameworks und Technologien",
+      "Responsive Design und mobile Optimierung",
+      "API-Entwicklung und Integration",
+      "Datenbank-Design und -Optimierung"
+    ],
+    "benefits": [
+      {
+        "icon": "gear",
+        "title": "Effiziente Entwicklung",
+        "description": "Schnelle und kostengünstige Entwicklung durch integrierte Prozesse"
+      },
+      {
+        "icon": "arrows-fullscreen",
+        "title": "Skalierbare Lösungen",
+        "description": "Zukunftssichere Architekturen für wachsende Anforderungen"
+      },
+      {
+        "icon": "tools",
+        "title": "Wartbarkeit",
+        "description": "Gut strukturierter Code für einfache Wartung und Erweiterung"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Anforderungsanalyse",
+        "description": "Detaillierte Erfassung Ihrer Anforderungen und Ziele"
+      },
+      {
+        "step": 2,
+        "title": "Konzeption",
+        "description": "Entwicklung einer technischen Architektur und UI/UX-Design"
+      },
+      {
+        "step": 3,
+        "title": "Entwicklung",
+        "description": "Agile Entwicklung mit regelmäßigen Feedback-Schleifen"
+      },
+      {
+        "step": 4,
+        "title": "Testing",
+        "description": "Umfassende Tests und Qualitätssicherung"
+      },
+      {
+        "step": 5,
+        "title": "Deployment",
+        "description": "Professionelle Inbetriebnahme und Monitoring"
+      }
+    ],
+    "keywords": [
+      "fullstack entwickler",
+      "full stack developer",
+      "fullstack",
+      "full stack",
+      "fullstack entwicklung",
+      "full stack entwicklung"
+    ]
+  },
+  "backend": {
+    "id": "backend",
+    "icon": "server",
+    "title": "Backend-Entwicklung",
+    "metaTitle": "Backend-Entwicklung | Robuste Serverlösungen",
+    "metaDescription": "Professionelle Backend-Entwicklung für skalierbare und sichere Serveranwendungen. Expertise in Microservices, APIs und Datenbanken.",
+    "shortDescription": "Robuste und skalierbare Serverlösungen für Ihre Geschäftsanforderungen.",
+    "fullDescription": "Unsere Backend-Entwicklung fokussiert sich auf die Erstellung leistungsfähiger Serveranwendungen. Wir entwickeln skalierbare Architekturen und effiziente APIs für Ihre geschäftskritischen Anwendungen.",
+    "image": "https://source.unsplash.com/random/800x600?server",
+    "features": [
+      "Microservices-Architekturen",
+      "RESTful und GraphQL APIs",
+      "Datenbank-Optimierung",
+      "Sicherheitsimplementierung",
+      "Performance-Monitoring"
+    ],
+    "benefits": [
+      {
+        "icon": "shield-check",
+        "title": "Hohe Sicherheit",
+        "description": "Implementierung modernster Sicherheitsstandards"
+      },
+      {
+        "icon": "lightning",
+        "title": "Optimale Performance",
+        "description": "Schnelle Verarbeitung auch bei hoher Last"
+      },
+      {
+        "icon": "diagram-3",
+        "title": "Skalierbarkeit",
+        "description": "Flexible Anpassung an wachsende Anforderungen"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Analyse",
+        "description": "Erfassung der technischen Anforderungen"
+      },
+      {
+        "step": 2,
+        "title": "Architektur",
+        "description": "Design der Backend-Architektur"
+      },
+      {
+        "step": 3,
+        "title": "Entwicklung",
+        "description": "Implementierung der Serverlösungen"
+      },
+      {
+        "step": 4,
+        "title": "Testing",
+        "description": "Umfangreiche Tests und Optimierung"
+      },
+      {
+        "step": 5,
+        "title": "Deployment",
+        "description": "Sichere Inbetriebnahme und Monitoring"
+      }
+    ],
+    "keywords": [
+      "backend developer",
+      "backend entwickler",
+      "backend development",
+      "backend web development",
+      "it backend",
+      "backend engineering"
+    ]
+  },
+  "cloud": {
+    "id": "cloud",
+    "icon": "cloud",
+    "title": "Cloud-Lösungen",
+    "metaTitle": "Cloud-Lösungen & Architektur | Professionelle Cloud-Services",
+    "metaDescription": "Maßgeschneiderte Cloud-Lösungen für Ihr Unternehmen. Expertise in AWS, Google Cloud und Azure. Sichere und skalierbare Cloud-Architekturen.",
+    "shortDescription": "Flexible und sichere Cloud-Architekturen für maximale Skalierbarkeit.",
+    "fullDescription": "Wir entwickeln und implementieren maßgeschneiderte Cloud-Lösungen, die Ihrem Unternehmen maximale Flexibilität und Skalierbarkeit bieten. Unsere Expertise umfasst alle führenden Cloud-Plattformen.",
+    "image": "https://source.unsplash.com/random/800x600?cloud",
+    "features": [
+      "Multi-Cloud-Strategien",
+      "Cloud-Native Entwicklung",
+      "Containerisierung und Orchestrierung",
+      "Automatisierte Skalierung",
+      "Disaster Recovery"
+    ],
+    "benefits": [
+      {
+        "icon": "graph-up",
+        "title": "Kosteneffizienz",
+        "description": "Optimierte Ressourcennutzung und Kostenstruktur"
+      },
+      {
+        "icon": "shield",
+        "title": "Sicherheit",
+        "description": "Umfassender Schutz Ihrer Cloud-Infrastruktur"
+      },
+      {
+        "icon": "arrows-angle-expand",
+        "title": "Flexibilität",
+        "description": "Schnelle Anpassung an neue Anforderungen"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Strategie",
+        "description": "Entwicklung der Cloud-Strategie"
+      },
+      {
+        "step": 2,
+        "title": "Design",
+        "description": "Architektur-Design und Planung"
+      },
+      {
+        "step": 3,
+        "title": "Migration",
+        "description": "Schrittweise Migration in die Cloud"
+      },
+      {
+        "step": 4,
+        "title": "Optimierung",
+        "description": "Performance- und Kostenoptimierung"
+      },
+      {
+        "step": 5,
+        "title": "Betrieb",
+        "description": "Kontinuierliches Monitoring und Management"
+      }
+    ],
+    "keywords": [
+      "cloud architect",
+      "cloud architecture",
+      "cloud solution architect",
+      "cloud architektur",
+      "cloud architekt",
+      "cloud computing"
+    ]
+  },
+  "datenmigrationen": {
+    "id": "datenmigrationen",
+    "icon": "arrow-left-right",
+    "title": "Datenmigrationen",
+    "metaTitle": "Professionelle Datenmigration | Sichere Datentransformation",
+    "metaDescription": "Sichere und effiziente Datenmigration für Ihr Unternehmen. Expertise in der Migration von Legacy-Systemen und komplexen Datenstrukturen.",
+    "shortDescription": "Sichere und effiziente Migration Ihrer Geschäftsdaten.",
+    "fullDescription": "Wir bieten professionelle Datenmigrationsdienste, die einen sicheren und effizienten Transfer Ihrer wertvollen Unternehmensdaten gewährleisten. Unsere Experten sorgen für eine reibungslose Migration ohne Datenverlust.",
+    "image": "https://source.unsplash.com/random/800x600?data",
+    "features": [
+      "Legacy-System-Migration",
+      "Datenbereinigung und -validierung",
+      "Automatisierte Migrationsprozesse",
+      "Datenkonsistenzprüfung",
+      "Rollback-Strategien"
+    ],
+    "benefits": [
+      {
+        "icon": "shield-lock",
+        "title": "Datensicherheit",
+        "description": "Garantierte Sicherheit sensibler Daten"
+      },
+      {
+        "icon": "clock-history",
+        "title": "Minimale Ausfallzeit",
+        "description": "Effiziente Migration mit geringer Downtime"
+      },
+      {
+        "icon": "check-circle",
+        "title": "Datenintegrität",
+        "description": "Gewährleistung der Datenqualität"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Analyse",
+        "description": "Analyse der Datenstrukturen"
+      },
+      {
+        "step": 2,
+        "title": "Planung",
+        "description": "Entwicklung der Migrationsstrategie"
+      },
+      {
+        "step": 3,
+        "title": "Test",
+        "description": "Testmigration und Validierung"
+      },
+      {
+        "step": 4,
+        "title": "Migration",
+        "description": "Durchführung der Live-Migration"
+      },
+      {
+        "step": 5,
+        "title": "Verifizierung",
+        "description": "Überprüfung und Qualitätssicherung"
+      }
+    ],
+    "keywords": [
+      "datenmigration",
+      "datenmigration vorgehen",
+      "datenmigration sap",
+      "daten migration"
+    ]
+  },
+  "e-commerce": {
+    "id": "e-commerce",
+    "icon": "cart",
+    "title": "E-Commerce",
+    "metaTitle": "E-Commerce Lösungen | Professionelle Online-Shop-Entwicklung",
+    "metaDescription": "Maßgeschneiderte E-Commerce-Lösungen für Ihren Online-Handel. Expertise in Shopware, Magento und individuellen Shop-Systemen.",
+    "shortDescription": "Professionelle Online-Shop-Lösungen für Ihren digitalen Vertrieb.",
+    "fullDescription": "Wir entwickeln leistungsstarke E-Commerce-Plattformen, die Ihren Verkaufserfolg maximieren. Von der Konzeption bis zur Implementierung begleiten wir Sie bei der Digitalisierung Ihres Handels.",
+    "image": "https://source.unsplash.com/random/800x600?ecommerce",
+    "features": [
+      "Individuelle Shop-Systeme",
+      "Payment-Integration",
+      "Warenwirtschaftsanbindung",
+      "Mobile Shopping",
+      "Marketing-Tools"
+    ],
+    "benefits": [
+      {
+        "icon": "cart-check",
+        "title": "Conversion-Optimierung",
+        "description": "Maximierung Ihrer Verkaufserfolge"
+      },
+      {
+        "icon": "phone",
+        "title": "Mobile First",
+        "description": "Optimale Darstellung auf allen Geräten"
+      },
+      {
+        "icon": "gear",
+        "title": "Integration",
+        "description": "Nahtlose Anbindung an Ihre Systeme"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "Konzeption",
+        "description": "Entwicklung der Shop-Strategie"
+      },
+      {
+        "step": 2,
+        "title": "Design",
+        "description": "Erstellung des Shop-Designs"
+      },
+      {
+        "step": 3,
+        "title": "Entwicklung",
+        "description": "Implementierung des Shop-Systems"
+      },
+      {
+        "step": 4,
+        "title": "Integration",
+        "description": "Anbindung externer Systeme"
+      },
+      {
+        "step": 5,
+        "title": "Launch",
+        "description": "Go-Live und Optimierung"
+      }
+    ],
+    "keywords": [
+      "e-commerce agentur",
+      "e commerce agentur",
+      "expert e commerce",
+      "agentur e commerce",
+      "agentur für onlineshops"
+    ]
+  },
+  "frontend": {
+    "id": "frontend",
+    "icon": "window",
+    "title": "Frontend-Entwicklung",
+    "metaTitle": "Frontend-Entwicklung | Moderne Weboberflächen",
+    "metaDescription": "Professionelle Frontend-Entwicklung für moderne und benutzerfreundliche Weboberflächen. Expertise in React, Vue.js und modernen Web-Technologien.",
+    "shortDescription": "Benutzerfreundliche und moderne Weboberflächen.",
+    "fullDescription": "Wir entwickeln intuitive und ansprechende Benutzeroberflächen, die Ihre Nutzer begeistern. Mit modernsten Frontend-Technologien schaffen wir optimale User Experiences.",
+    "image": "https://source.unsplash.com/random/800x600?interface",
+    "features": [
+      "Responsive Webdesign",
+      "Single Page Applications",
+      "Progressive Web Apps",
+      "UI/UX-Optimierung",
+      "Performance-Optimierung"
+    ],
+    "benefits": [
+      {
+        "icon": "speedometer",
+        "title": "Schnelle Performance",
+        "description": "Optimierte Ladezeiten und Reaktivität"
+      },
+      {
+        "icon": "phone",
+        "title": "Responsive Design",
+        "description": "Perfekte Darstellung auf allen Geräten"
+      },
+      {
+        "icon": "heart",
+        "title": "Beste UX",
+        "description": "Intuitive und ansprechende Bedienung"
+      }
+    ],
+    "process": [
+      {
+        "step": 1,
+        "title": "UX-Design",
+        "description": "Entwicklung der Nutzerführung"
+      },
+      {
+        "step": 2,
+        "title": "UI-Design",
+        "description": "Gestaltung der Oberflächen"
+      },
+      {
+        "step": 3,
+        "title": "Entwicklung",
+        "description": "Implementierung der Frontend-Logik"
+      },
+      {
+        "step": 4,
+        "title": "Optimierung",
+        "description": "Performance-Tuning"
+      },
+      {
+        "step": 5,
+        "title": "Testing",
+        "description": "Cross-Browser und Geräte-Tests"
+      }
+    ],
+    "keywords": [
+      "frontend",
+      "front end developer",
+      "frontend entwickler",
+      "front-end",
+      "frontend programmierung",
+      "web frontend development"
+    ]
+  }
+}
